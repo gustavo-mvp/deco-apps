@@ -15,6 +15,7 @@ const paltformApps = [{
 
 const config = {
   apps: [
+    app("amma-varejo"),
     app("ai-assistants"),
     app("openai"),
     app("brand-assistant"),
