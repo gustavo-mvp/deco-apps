@@ -6,9 +6,9 @@ import * as $$$0 from "./loaders/productList.ts";
 
 const manifest = {
   "loaders": {
-    "amma-varejo/loaders/productList.ts": $$$0,
+    "ammo-varejo/loaders/productList.ts": $$$0,
   },
-  "name": "amma-varejo",
+  "name": "ammo-varejo",
   "baseUrl": import.meta.url,
 };
 

@@ -1,8 +1,8 @@
 import { Product } from "../../commerce/types.ts";
 
-import { AmmaProduct } from "../types.ts";
+import { AmmoProduct } from "../types.ts";
 
-export function toProduct(_ammaProduct: AmmaProduct): Product | null {
+export function toProduct(_ammaProduct: AmmoProduct): Product | null {
     //TODO: CONVERT API PRODUCT TO DECO INTERFACE
     return null
 }

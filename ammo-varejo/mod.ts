@@ -5,7 +5,7 @@ import manifest, { Manifest } from "./manifest.gen.ts";
 // deno-lint-ignore ban-types
 export type State = {};
 /**
- * @title amma-varejo
+ * @title ammo-varejo
  */
 export default function App(
   state: State,
